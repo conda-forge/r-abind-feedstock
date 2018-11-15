@@ -14,9 +14,8 @@ Summary: Combine multidimensional arrays into a single array. This is a generali
 Current build status
 ====================
 
-[![Linux](https://img.shields.io/circleci/project/github/conda-forge/r-abind-feedstock/master.svg?label=Linux)](https://circleci.com/gh/conda-forge/r-abind-feedstock)
-[![OSX](https://img.shields.io/travis/conda-forge/r-abind-feedstock/master.svg?label=macOS)](https://travis-ci.org/conda-forge/r-abind-feedstock)
-[![Windows](https://img.shields.io/appveyor/ci/conda-forge/r-abind-feedstock/master.svg?label=Windows)](https://ci.appveyor.com/project/conda-forge/r-abind-feedstock/branch/master)
+All platforms:
+[![noarch](https://img.shields.io/circleci/project/github/conda-forge/r-abind-feedstock/master.svg?label=noarch)](https://circleci.com/gh/conda-forge/r-abind-feedstock)
 
 Current release info
 ====================
