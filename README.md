@@ -1,11 +1,11 @@
-About r-abind
-=============
+About r-abind-feedstock
+=======================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-abind-feedstock/blob/main/LICENSE.txt)
 
 Home: https://CRAN.R-project.org/package=abind
 
 Package license: LGPL (>= 2)
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-abind-feedstock/blob/main/LICENSE.txt)
 
 Summary: Combine multidimensional arrays into a single array. This is a generalization of 'cbind' and 'rbind'.  Works with vectors, matrices, and higher-dimensional arrays.  Also provides functions 'adrop', 'asub', and 'afill' for manipulating, extracting and replacing data in arrays.
 
